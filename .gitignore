@@ -106,3 +106,9 @@ dist
 
 .DS_Store
 dist
+
+.yarnrc
+.yarn/cache 
+.pnp.*
+.yarn/install-state.gz
+.yarn/unplugged 
